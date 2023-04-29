@@ -5,7 +5,7 @@ This project aims to analyze customer behavior using two popular techniques in m
 
 The main objective of this project is to identify different customer segments based on their purchase behavior, which will help the business better understand its customers and develop targeted marketing strategies to increase sales and customer retention.
 
-Installation
+# Installation
 To run this project, you will need to have the following packages installed:
 
 Pandas
