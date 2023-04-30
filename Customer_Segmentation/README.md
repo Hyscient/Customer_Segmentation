@@ -30,7 +30,7 @@ Four customer segments were identified based on their purchase behavior: high-va
 # Resources
 # The following resources were used in the creation of this project:
 
-Sample e-commerce dataset from Kaggle: https://www.kaggle.com/carrie1/ecommerce-data
+Sample e-commerce dataset from Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 "Cohort Analysis with Python" article on Medium by Kevin Sisso: https://towardsdatascience.com/cohort-analysis-with-python-7c804ca853e8
 "RFM Analysis" article on CleverTap: https://clevertap.com/blog/rfm-analysis/
 "RFM Analysis in Python" article on Towards Data Science by Tirthajyoti Sarkar: https://towardsdatascience.com/rfm-analysis-in-python-5e03b2573b6c
